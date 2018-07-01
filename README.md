@@ -1,20 +1,15 @@
 # Memory Game Project
 
-## Table of Contents
-
-* [Instructions](#instructions)
-* [Contributing](#contributing)
-
 ## Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+Game starts when the page is loaded. Try to find the same cards by clicking on them. It is a memory game. Game ends once you find all the pairs of cards.
 
-To get started, open `js/app.js` and start building out the app's functionality
+## Dependencies
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+Html, JavaScript, Css, jquery, Bootstrap The game is built on a on starter code from https://github.com/udacity/fend-project-memory-game Shuffle function from http://stackoverflow.com/a/2450976 
 
-## Contributing
+# Live page
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+## Author
 
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+Anastasios Agathangelou
