@@ -8,8 +8,6 @@ Game starts when the page is loaded. Try to find the same cards by clicking on t
 
 Html, JavaScript, Css, jquery, Bootstrap The game is built on a on starter code from https://github.com/udacity/fend-project-memory-game Shuffle function from http://stackoverflow.com/a/2450976 
 
-# Live page
-
 ## Author
 
 Anastasios Agathangelou
